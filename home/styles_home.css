@@ -61,7 +61,13 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  height: 100vh
 }
+  .header{
+    margin-bottom: 580px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
   .header h1 {
       font-size: 1.8em;
   }
@@ -84,7 +90,13 @@ p {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  height: 100vh
 }
+  .header{
+    margin-bottom: 580px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
   .header h1 {
       font-size: 1.5em;
   }
